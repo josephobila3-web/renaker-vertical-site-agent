@@ -1,0 +1,8 @@
+{
+  "name": "Renaker AI Site Agent",
+  "description": "Vertical Construction Management Dashboard for Renaker.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
